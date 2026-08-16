@@ -1,5 +1,5 @@
-## Hi
-
+## Hi👋
+##Im a tech enthusiast 
 <
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/diklst?igsh=MTkwZXRyZjB6ZXloYg==) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andhika061009@gmail.com) 
