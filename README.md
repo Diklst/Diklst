@@ -1,7 +1,7 @@
 ![King](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFycHhtNGgwZjZoMHZmMG51cmw1eHNvaXllc2l3cTM3Y2RzaW5lNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hTfgjLJmngYh9qZQIq/giphy.gif)
 
 ## Hello World! **Iam Andhika Listianto Putra**
-## Im a tech enthusiast
+## On Intern Now
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/diklst?igsh=MTkwZXRyZjB6ZXloYg==) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andhika061009@gmail.com) 
