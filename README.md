@@ -1,7 +1,5 @@
-![Man U](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q4ZXhwbWJ6dnM2bjJ4M3k5N3Z3dXprOGRrc3ViNGl4ejd3cG5ybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hTfgjLJmngYh9qZQIq/giphy.gif)
-
 ## Hello World! **Iam Andhika Listianto Putra**
-## On Intern Now
+## Tech Enthusiast
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/diklst?igsh=MTkwZXRyZjB6ZXloYg==) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andhika061009@gmail.com) 
@@ -13,8 +11,11 @@
 ![](https://streak-stats.demolab.com/?user=diklst&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=diklst&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+![Man U](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q4ZXhwbWJ6dnM2bjJ4M3k5N3Z3dXprOGRrc3ViNGl4ejd3cG5ybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hTfgjLJmngYh9qZQIq/giphy.gif)
 ---
 [![](https://komarev.com/ghpvc/?username=diklst&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
