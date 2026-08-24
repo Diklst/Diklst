@@ -1,4 +1,6 @@
-## Hi👋
+![King] (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFycHhtNGgwZjZoMHZmMG51cmw1eHNvaXllc2l3cTM3Y2RzaW5lNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hTfgjLJmngYh9qZQIq/giphy.gif)
+
+## Hello World! **Iam Andhika Listianto Putra**
 ## Im a tech enthusiast
 
 ## 🌐 Socials:
